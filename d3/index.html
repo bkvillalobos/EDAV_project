@@ -21,28 +21,30 @@
 }
 
 circle {
-    r: 6;
+    r: 7;
 }
 
 </style>
 <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://d3js.org/d3-scale-chromatic.v0.3.min.js"></script>
-</head>
+</head> 
 
 <body>
-        <h1>Hover over points to see some sample tweets!</h1>
+        <h1>Sentiment Analysis</h1>
+        <h2>Hover over points to see some sample tweets!</h2>
         <form action="/action_page.php">
           <select name="person">
             <option value="rubio">Marco Rubio</option>
-            <option value="emma">Emma Rodriguez</option>
+            <option value="dana">Dana Loesch</option>
             <option value="cameron">Cameron Kansky</option>
+            <option value="emma">Emma Rodriguez</option>
             <option value="tapper">Jake Tapper</option>
+            
           </select>
           <br><br>
         </form>
-        <div class='content'>
-        </div>
-        <script type="text/javascript" src="scatterchart.js"></script>
+        <div class='content'></div>
         <div id='tweetText' style="white-space: pre-line;"></div>
+        <script type="text/javascript" src="scatterchart.js"></script>
 </body>
 </html>
