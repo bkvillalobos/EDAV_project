@@ -54,7 +54,10 @@ var main = chart.append('g')
   var xAxis = d3.axisBottom(x)
                 .tickFormat(function(d) { 
                                 hrs = 9 + Math.floor(d/60)
-                                mins = d - 60
+                                mins = d % 60
+                                if(mins == 0){
+                                  mins = "00"
+                                }
                                 return String(hrs) + ":" + String(mins); 
                               });
 
@@ -163,6 +166,7 @@ function plotData(data, plotRegLine=false){
           dots.enter().append("circle")
           .attr("class", "dots")
           .merge(dots)
+          .attr("r", 7)
           .attr("cx", function (d,i) { return x(d.timestamp); } )
           .attr("cy", function (d) { return y(d.sent); } )
           .attr("fill", function(d){ return color(d.sent)})
