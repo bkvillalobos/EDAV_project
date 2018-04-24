@@ -19,7 +19,7 @@ minY = Infinity
 
 dataList = [emmaData, rubioData, cameronData, tapperData, danaData, deutchData, 
             israelData, nelsonData, trumpData, scottData]
-for(ix in dataList){
+for(ix=0; ix < dataList.length; ix++){
   maxX = Math.max(maxX, d3.max(dataList[ix], function(d) { return d.timestamp + 1; }))
   //minX = Math.min(inX, d3.min(dataList[ix], function(d) { return d.timestamp; }))
 
@@ -195,13 +195,6 @@ function plotData(data, plotRegLine=false){
         .attr("y2", function(d) { return y(regPoints[3]); })
         .attr("stroke", "red")
         .attr("stroke-width", 3)
-      /*
-      main.append("path")
-            .attr("class", "reg-line")
-            .attr("d", regLine(data))
-            .attr('fill', 'none')
-            .attr("stroke", "black");
-            */
     }
     else{
       trendline = main.selectAll('.trendline')
