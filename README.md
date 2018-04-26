@@ -1,2 +1,4 @@
-# EDAV_project
-Spring 2018 EDAV project code
+## Exploring Twitter Reactions to the CNN Town Hall on Gun Violence
+### Exploratory Data Analysis and Visualization: STAT 5702 Spring 2018
+
+In late February, following a shooting at a High School in Parkland, Florida, some of the survivors, their parents, and teachers were invited to a televised town hall to ask uncensored questions about and discuss gun violence and related topic with Senators Marco Rubio and Bill Nelson, House of Rep. Member Ted Deutch, Broward County Sheriff Scott Israel and National Rifle Association spokeswoman Dana Loesch, among others. The event was moderated by Jake Tapper of CNN.

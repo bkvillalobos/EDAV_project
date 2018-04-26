@@ -50,7 +50,7 @@ List team members and a description of how each contributed to the project. -->
     <p>
         The CNN town hall garnered significant public attention not only for the tragic nature of the shooting at the Stoneman Douglas High School, which took the lives of 17 students and teachers, but also because of the political, legislative, and law-enforcement issues that are inextricably tied with gun violence in the US. In a series of appearances unprecedented in a disturbingly long history of frequent shooting incidents, some among the students have spoken extensively and eloquently on the need for greater gun-control, which spurred further attention and interest in the already prominent and highly polarized debate regarding gun violence in the US. In the weeks after the shooting and preceding the CNN town hall, this has been one of the most discussed political topics in the public sphere as reflected on social and traditional media.
     </p>
-    <img src="images/townhall.jpg" alt="Marco Rubio in CNN Townhall" align="middle">
+    <img src="images/townhall.jpg" alt="Marco Rubio in CNN Townhall" align="middle" width = "1200">
     <p>
         The event and was the first opportunity for some the loudest and most authentic critics of [what are perceived by many as] lax gun laws to discuss the issue with policymakers, law-enforcement, as well as a representative of the National Rifle Association. As such, the CNN town hall has itself been the subject of great public attention; an obvious source to look to for the public’s authentic, uncensored reactions was Twitter.
     </p>
@@ -110,11 +110,12 @@ List team members and a description of how each contributed to the project. -->
             </ol>
         </p>
         <h3>
-            Sentiment Analysis
+            Reactions to Participants
         </h3>
             <p>
-                The volume of reactions to the various personalities involved in or conspicuously absent from the CNN town hall, and its evolution through the duration of the event
+                The first interactive tool shows the volume of reactions to the various personalities involved in or conspicuously absent from the CNN town over time. It renders a plot with the number of tweets about a person selected from the drop-down menu indicated on the left y axis. Time is on the x axis, to show how the volume of tweets about the person evolved during the town hall event. Since the left y axis, indicating the number of tweets, dynamically adjusts its scale to the range of the number of tweets about a particular person, there is an additional static, colored right y axis to allow intuitive cross-person number-of-tweets comparisons via a sequential palette matching the color of the observations: thus even the highest data points for a less-mentioned among the people will have the brighter color. An additional feature is a sentiment analysis indicator: upon hovering over any dot, i.e. observation, the plot shows the text of the most negative and positive tweet (as well as the number of tweets) about that person during that minute of the debate.
             </p>
+
             <select name="person">
             <option value="rubio">Sen. Marco Rubio</option>
             <option value="israel">Sheriff Scott Israel</option>
@@ -133,9 +134,29 @@ List team members and a description of how each contributed to the project. -->
         <div id='tweetText' style="white-space: pre-line; margin-left:15px;"></div>
         <script type="text/javascript" src="./d3/scatterchart.js"></script>
 
+            <hr>
+            <p>
+                It’s not surprising to see that for most participants, the mentions in tweets are correlated with the time they appear in the debate. That’s particularly noticeable for Cameron Kasky, Emma Rodriguez and Rep. Ted Deutch, where the distribution of tweets seems to resemble a shifted exponential distribution: people reacted a lot to the remarks when those have been made and then less and less with the debate moving on. This reveals how people use twitter to instantaneously react about some remarks and events.
+            </p>
+            <p>
+                However, some other personalities caught our attention in the sense that at the very beginning of the debate, people where tweeting about them, despite their absence from the stage or even taking part in the debate at all. President Trump, for example, did not take part in the debate but was still mentioned more often than other participants. This is paradoxically due to him not taking part in the debate: people would express their discontent about him turning down the CNN invitation to confront the students. Trump’s counterprogramming his own reception with some of the students and parents at the same time must have contributed to his prominence in the tweets.
+            </p>
+            <p>
+                People were also tweeting about Dana Loesch, the NRA spokeswoman, prior to her being on stage, and by analyzing the tweets we can see that she was not unknown to the public: particularly, a lot of anti-NRA tweets mentioned her at the beginning of the debate.
+            </p>
+            <p>
+                It’s worth lingering over Marco Rubio’s tweets mentions overtime. As one can see on the corresponding graph, Senator Rubio was featured the most during the debate, with about 230 tweets per minute during the first two-thirds of the debate. By analyzing the tweets over time, one can notice two key moments of the debate when people were tweeting about Sen. Rubio. The first one corresponds to the moment when Rubio was heckled by the father of a girl who died in the shooting, qualifying the statements he made prior to the debate as “pathetically weak,” followed by a standing ovation and a huge applause from the crowd. The sentiment analysis clearly shows us that the content of the tweets were mostly against Rubio and supportive of the father who asked for a total ban of guns. Some of the tweets about Sen. Rubio are very fervently negative or even vulgar, showing the discontent of the tweeters and the tweeters’ desire to see things changing. However, one may wonder what fraction of the population those tweets are representative of, and what range of the different political views it reflects. Indeed it seems that people mainly tweet only to express their dissatisfaction.
+            </p>
+            <p>
+                The second important moment is when Sen. Rubio faced Cameron Kasky, a bold student who asked him whether he would continue accepting money for his campaign from the NRA (c.f. picture at the beginning of the blog post). This very question provoked a lot of reactions online. The majority of the tweets praised the student, often stressing how he “destroyed” or “crushed” the senator.
+            </p>
+            <p>
+                Finally, the graph shows us that after 10:20pm, the tempest of tweets against Rubio slowed down as he left the stage and gave the floor to Dana Loesch, who seemed to gather the majority of the mentions (and the scorn) for her confrontation with Emma Rodriguez.
+            </p>
+
 
         <h3>
-            Wordcloud By States
+            Geographic Insights
         </h3>
             <p>
                 The below interactive tool renders dots on a map of the US to represent all the tweets posted from a specific geographic location (latitude-longitude) and minute since the start of the event. The desired minute since the beginning of the event can be selected by the slider -  ranging from 0 (9 pm local time)  to  120 (11 pm). Finally, upon clicking on an area within any of the US states, the application will display below a collection of words most frequently mentioned in tweets by users from the selected state up to the specified minute during the town hall.
@@ -160,17 +181,64 @@ List team members and a description of how each contributed to the project. -->
                 Looking at states with very high estimated gun ownership rates, such as Montana, Texas, or Arkansas, one can notice that NRA related terms, including the representative Dana Loesch upon her entrance around the 70th minute, are quite prominent, which may indicate either that even the more pro-gun users don’t shy away from addressing the topics despite the negative coverage in the town hall, or that even in more conservative states, the users that decide to tweet about the event are more likely to support stronger gun-control.
             </p>
             <p>
-                The latter seems to be the more likely explanation, considering the fact that, using the first tool to inspect the volume of tweets about NRA rep. Dana Loesch over time, even the most positive tweets that appear are very negative, across the US. These findings together, may support two plausible hypotheses: (i) that the average viewer of the CNN town hall may be  slightly more likely to hold liberal political attitudes, which is in line with what we know about the viewership of CNN; or (ii) that people are in general more likely to tweet when they feel strongly about an issue, and this happens to be quite negative on the particular issues discussed in the town hall.
+                The latter seems to be the more likely explanation, considering the fact that, using the first tool to inspect the volume of tweets about NRA rep. Dana Loesch over time, even the most positive tweets that appear are very negative, across the US. These findings together, may support two plausible hypotheses: (i) that the average viewer of the CNN town hall may be  slightly more likely to hold liberal political attitudes, which is in line with what we <a href="http://www.journalism.org/interactives/media-polarization/outlet/cnn/">know about the viewership of CNN</a>; or (ii) that people are in general more likely to tweet when they feel strongly about an issue, and this happens to be quite negative on the particular issues discussed in the town hall.
             </p>
 
         <h3>
-            LDA Topic Modelling
+            What was Discussed?
         </h3>
             <p>
-                The major topics of discussion extracted from the transcript of the CNN town hall event, their relative distance (between their estimated distributions), and the most (uniquely) prominent two-word phrases within each topic.
+                For this tool, we preprocessed the transcript of the town hall event (provided by <a href="https://www.cnn.com/2018/02/22/politics/cnn-town-hall-full-video-transcript/index.html">CNN</a>), with LDA - a generative statistical model that aims to explain the linguistic content of documents by estimating which are the topics that each document consists of. Each document (here, sentence in the town hall transcript) is assumed to be a mixture of the extracted topics, where each topic is characterized by a probability distribution over all the words. Then, with the output we obtained, we visualized the findings by adapting the below interactive tool, developed and studied by Shirley and Sievert, which is designed to aid answering three questions:
             </p>
-            <img src="images/lda_viz.jpg" alt="Marco Rubio in CNN Townhall" align="middle" width="800" height="800">
+            <ol>
+                <li>
+                    What is the meaning of each topic?
+                </li>
+                <li>
+                    How prevalent is each topic?
+                </li>
+                <li>
+                    How do the topics relate to each other? 
+                </li>
+            </ol>
+                <p>
+                    Different elements of the visualization address each of these questions.
+                </p>
+                <p>
+                    The left and right panels of our visualization are connected so that clicking on a topic (circle) on the left renders the most useful (explained below) two-word phrases for interpreting the selected topic. To answer (2) and (3), one uses the panel on the left: the area of a circle is proportional to the overall prevalence of the corresponding topic in the town hall transcript, while the distance between the centers of two circles is here shown as proportional to the (symmetric) Jensen-Shannon divergence between any two topic probability distributions - in other words, the further away two circles are, the less similar the topics they stand for are.                    
+                </p>
+                <p>
+                    Hovering over one of the phrases in the horizontal bar-chart on the right panel once a topic is already selected yields the conditional distribution over topics (on the left) for the selected phrase, with the changing circle areas emphasizing the conditional probabilities of that phrase appearing within other topics where the phrase is present (and the remaining topic circles disappearing). This is meant to allow exploring the relation between topics and phrases, but it also adds to the intuitive experience of the distance between the topics.
+                </p>
+                <p>
+                    Finally, “to interpret a topic, one typically examines a ranked list of the most probable terms in that topic, using anywhere from three to thirty terms in the list. The problem with interpreting topics this way is that common terms in the [whole] corpus often appear near the top of such lists for multiple topics, making it hard to differentiate the meanings of these topics.” For this purpose, included here is the interactive λ relevance metric. In short, “setting λ = 1 results in the familiar ranking of [phrases] in decreasing order of their topic-specific probability, and setting λ = 0 ranks [phrases] solely by their” topic specific probability divided by the overall marginal probability of the phrase in the whole transcript (for details, see the <a href="https://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf">original paper</a>). In other words, by setting the λ one decides how much to weigh more uniquely characteristic phrases in the ranking for a given topic rather than just by ranking the straightforwardly most frequent phrases within the topic, which may be very frequent across the town hall transcript. The optimal value is subjective and depends solely on what is most suitable for human interpretation of the meaning of a topic. By examining the resulting bar charts in the right panel, one can hopefully infer what the topic is about. The static bar charts preceding the interactive visualisation discussed above are equivalent to the case of λ = 1, without all the other features.
+                </p>
+
             <iframe src="images/lda_viz.html" width="1200" height="800"></iframe>
+            <img src="images/lda_viz.jpg" alt="Marco Rubio in CNN Townhall" align="middle" width="800" height="800">
+                <p>
+                    The static bar charts above are equivalent to the case of λ = 1 in the interactive visualization, without all the other features.
+                </p>
+                <p>
+                    We address the first question the interactive tool was developed for by examining the bar charts while setting λ somewhat arbitrarily around 0.5 for a ranking balance between more unique yet still very frequent phrases within each topic. The meanings of the four extracted topics (subjectively) seem to be:
+                    <ol>
+                        <li>
+                            on law enforcement, gun-violence prevention as related to specific weapon bans, possibly as discussed by the NRA rep. Dana Loesch and Sheriff Israel
+                        </li>
+                        <li>
+                            the phrases more uniquely associated with topic 2 seem to be tied to the students, teachers, and families, as well as to Donald Trump’s proposal to arm teachers; while Sen. Rubio is prominently present across across all the topics, his beliefs feature very significantly in this topic, possibly tied to his justification for receiving campaign contributions from the NRA and the above policy proposal
+                        </li>
+                        <li>
+                            the distinguishing phrases in the third topic seem to, as in topic (1), to be about policy proposals and which straightforward steps need to be taken to make sure such incidents don’t occur (such as background checks)
+                        </li>
+                        <li>
+                            the fourth topic is somewhat harder to interpret than the rest of the topics as it consists of a seemingly miscellaneous set of phrases, ranging from Washington, D.C., to specific weapons, and, most uniquely, “unidentified female.” This last phrase offers a clue to better understand the meaning of the topic when opening the text of the transcript, which reveals that several of the female students were quoted in the transcript as “unidentified female,” suggesting that what or how they discussed the issues with the other guests was distinctive.
+                        </li>
+                    </ol>
+                </p>
+                <p>
+                    All the topics are represented as circles of similar areas, indicating that their prevalence was similar in the corpus, i.e. the transcript. The distance between the distributions of the topics is largest between (4) and the rest, which is intuitive given the harder interpretability of the latter. Topics (1) and (3) are quite close, in accordance with the similarity in how we interpreted their meanings based on the most relevant phrases, while the distribution of topic (2) is not close to any of the remaining topics, but not as far from those of the rest as that of (4), which again matches our subjective interpretation of the meaning of topic (2).
+                </p>
 
     <h2>
         Executive Summary
