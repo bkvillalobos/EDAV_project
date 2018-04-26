@@ -1,0 +1,10 @@
+name: geoloc_app
+title:
+username:
+account: edavproject
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 330119
+bundleId: 1341552
+url: https://edavproject.shinyapps.io/geoloc_app/
+when: 1524773705.34388
