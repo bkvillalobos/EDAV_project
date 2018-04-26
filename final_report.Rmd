@@ -1,0 +1,8 @@
+---
+title: "final_report"
+author: "Gaurav Singh"
+date: "4/26/2018"
+output: html_document
+---
+
+<<insertHTML:[final.html]

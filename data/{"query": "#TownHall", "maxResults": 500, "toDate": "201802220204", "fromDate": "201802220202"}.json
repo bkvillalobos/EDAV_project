@@ -1,0 +1,2096 @@
+[
+  {
+    "created_at": "Thu Feb 22 02:03:58 +0000 2018",
+    "id": 966493738565558272,
+    "id_str": "966493738565558272",
+    "text": "This grandmother #standswithmdsstrong #MDSStrong #Townhall",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 27380088,
+      "id_str": "27380088",
+      "name": "vlh",
+      "screen_name": "valhan56",
+      "location": "philadelphia, pa",
+      "url": null,
+      "description": "Soap fan,Phillies fan, and Eagles fan.....",
+      "translator_type": "none",
+      "derived": {
+        "locations": [
+          {
+            "country": "United States",
+            "country_code": "US",
+            "locality": "Philadelphia",
+            "region": "Pennsylvania",
+            "sub_region": "Philadelphia County",
+            "full_name": "Philadelphia, Pennsylvania, United States",
+            "geo": {
+              "coordinates": [
+                -75.16379,
+                39.95234
+              ],
+              "type": "point"
+            }
+          }
+        ]
+      },
+      "protected": false,
+      "verified": false,
+      "followers_count": 669,
+      "friends_count": 2196,
+      "listed_count": 9,
+      "favourites_count": 1783,
+      "statuses_count": 7655,
+      "created_at": "Sun Mar 29 04:30:37 +0000 2009",
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "DBE9ED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/483420936490598401/2PogazWK.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/483420936490598401/2PogazWK.jpeg",
+      "profile_background_tile": false,
+      "profile_link_color": "CC3366",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E6F6F9",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/684781621451489280/hlwGhx5s_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/684781621451489280/hlwGhx5s_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/27380088/1441513456",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "standswithmdsstrong",
+          "indices": [
+            17,
+            37
+          ]
+        },
+        {
+          "text": "MDSStrong",
+          "indices": [
+            38,
+            48
+          ]
+        },
+        {
+          "text": "Townhall",
+          "indices": [
+            49,
+            58
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "matching_rules": [
+      {
+        "tag": null
+      }
+    ]
+  },
+  {
+    "created_at": "Thu Feb 22 02:03:57 +0000 2018",
+    "id": 966493733482123264,
+    "id_str": "966493733482123264",
+    "text": "Of course Trump declined to be at the #Townhall. He's nothing but a coward.",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 24579517,
+      "id_str": "24579517",
+      "name": "Laura\ud83e\udd8b",
+      "screen_name": "itslaura4sure",
+      "location": "United States",
+      "url": null,
+      "description": "Wife, mom, mimi, libra, music lover, vikings fan, cubs fan. I grew up in the 80s (fun times, amazing memories). #Resist #UniteBlue \ud83d\udc99",
+      "translator_type": "none",
+      "derived": {
+        "locations": [
+          {
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "United States",
+            "geo": {
+              "coordinates": [
+                -98.5,
+                39.76
+              ],
+              "type": "point"
+            }
+          }
+        ]
+      },
+      "protected": false,
+      "verified": false,
+      "followers_count": 3360,
+      "friends_count": 2435,
+      "listed_count": 0,
+      "favourites_count": 3392,
+      "statuses_count": 17189,
+      "created_at": "Sun Mar 15 20:25:19 +0000 2009",
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/528665484699254784/PsHztG68.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/528665484699254784/PsHztG68.jpeg",
+      "profile_background_tile": true,
+      "profile_link_color": "B2854B",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "262104",
+      "profile_text_color": "7B5A13",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/977544926635413504/VZQHM2gY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/977544926635413504/VZQHM2gY_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/24579517/1485767998",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Townhall",
+          "indices": [
+            38,
+            47
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "matching_rules": [
+      {
+        "tag": null
+      }
+    ]
+  },
+  {
+    "created_at": "Thu Feb 22 02:03:32 +0000 2018",
+    "id": 966493630612598784,
+    "id_str": "966493630612598784",
+    "text": "Watching the @CNN #Townhall",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 337419469,
+      "id_str": "337419469",
+      "name": "Gimme Dat Blue Milk",
+      "screen_name": "TylerMudkip",
+      "location": "America",
+      "url": null,
+      "description": "Kyle Katarn is Bae",
+      "translator_type": "none",
+      "derived": {
+        "locations": [
+          {
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "United States",
+            "geo": {
+              "coordinates": [
+                -98.5,
+                39.76
+              ],
+              "type": "point"
+            }
+          }
+        ]
+      },
+      "protected": false,
+      "verified": false,
+      "followers_count": 102,
+      "friends_count": 372,
+      "listed_count": 6,
+      "favourites_count": 4028,
+      "statuses_count": 5656,
+      "created_at": "Mon Jul 18 00:39:32 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "228B22",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/978825897829699584/q8q2NeAm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/978825897829699584/q8q2NeAm_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/337419469/1513043386",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "f54a2170ff4b15f7",
+      "url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json",
+      "place_type": "admin",
+      "name": "Illinois",
+      "full_name": "Illinois, USA",
+      "country_code": "US",
+      "country": "United States",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.51308,
+              36.970298
+            ],
+            [
+              -91.51308,
+              42.508303
+            ],
+            [
+              -87.019935,
+              42.508303
+            ],
+            [
+              -87.019935,
+              36.970298
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Townhall",
+          "indices": [
+            18,
+            27
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "CNN",
+          "name": "CNN",
+          "id": 759251,
+          "id_str": "759251",
+          "indices": [
+            13,
+            17
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "matching_rules": [
+      {
+        "tag": null
+      }
+    ]
+  },
+  {
+    "created_at": "Thu Feb 22 02:03:14 +0000 2018",
+    "id": 966493552963440641,
+    "id_str": "966493552963440641",
+    "text": "Obama would have been there #Townhall @CNN #NoMoreGuns",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17366064,
+      "id_str": "17366064",
+      "name": "gillian britt",
+      "screen_name": "gillianbritt",
+      "location": "Portland, Maine",
+      "url": "http://about.me/gillianbritt",
+      "description": "Executive Editor of @eatdrinklucky. Lover of fine dining and hot dogs smothered in mustard. Share your food tips and ideas, always hungry for more.",
+      "translator_type": "none",
+      "derived": {
+        "locations": [
+          {
+            "country": "United States",
+            "country_code": "US",
+            "locality": "Portland",
+            "region": "Maine",
+            "sub_region": "Cumberland County",
+            "full_name": "Portland, Maine, United States",
+            "geo": {
+              "coordinates": [
+                -70.25533,
+                43.66147
+              ],
+              "type": "point"
+            }
+          }
+        ]
+      },
+      "protected": false,
+      "verified": false,
+      "followers_count": 1530,
+      "friends_count": 1840,
+      "listed_count": 61,
+      "favourites_count": 361,
+      "statuses_count": 2899,
+      "created_at": "Thu Nov 13 14:48:49 +0000 2008",
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "A93235",
+      "profile_sidebar_border_color": "D9F7F7",
+      "profile_sidebar_fill_color": "77C757",
+      "profile_text_color": "323710",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/578587143959912449/NXEWj0Lh_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/578587143959912449/NXEWj0Lh_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17366064/1426781120",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Townhall",
+          "indices": [
+            28,
+            37
+          ]
+        },
+        {
+          "text": "NoMoreGuns",
+          "indices": [
+            43,
+            54
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "CNN",
+          "name": "CNN",
+          "id": 759251,
+          "id_str": "759251",
+          "indices": [
+            38,
+            42
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "matching_rules": [
+      {
+        "tag": null
+      }
+    ]
+  },
+  {
+    "created_at": "Thu Feb 22 02:03:06 +0000 2018",
+    "id": 966493519044120577,
+    "id_str": "966493519044120577",
+    "text": "Airing right now on @CNN:\n\"CNN Town Hall: Stand Up: The Students of Stoneman Douglas Demand Action\"\u2026 https://t.co/3BY6d3IP4m",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 281319211,
+      "id_str": "281319211",
+      "name": "Dan Meyer",
+      "screen_name": "MeyersMusings",
+      "location": "Buffalo | Hamburg, NY",
+      "url": null,
+      "description": "We certainly live in very strange times. (Opinions posted here are mine. They don't necessarily reflect the views of others, including my employer.)",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1348,
+      "friends_count": 565,
+      "listed_count": 52,
+      "favourites_count": 9195,
+      "statuses_count": 40854,
+      "created_at": "Wed Apr 13 02:13:41 +0000 2011",
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/979069025073348608/6ZeZxZvD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/979069025073348608/6ZeZxZvD_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/281319211/1522263250",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "Airing right now on @CNN:\n\"CNN Town Hall: Stand Up: The Students of Stoneman Douglas Demand Action\"\n#StonemanDouglas\n#StoenemanDouglasHighSchool\n#StudentsDemandAction\n#CNN\n#CNNTownHall\n#TownHall",
+      "display_text_range": [
+        0,
+        194
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "StonemanDouglas",
+            "indices": [
+              100,
+              116
+            ]
+          },
+          {
+            "text": "StoenemanDouglasHighSchool",
+            "indices": [
+              117,
+              144
+            ]
+          },
+          {
+            "text": "StudentsDemandAction",
+            "indices": [
+              145,
+              166
+            ]
+          },
+          {
+            "text": "CNN",
+            "indices": [
+              167,
+              171
+            ]
+          },
+          {
+            "text": "CNNTownHall",
+            "indices": [
+              172,
+              184
+            ]
+          },
+          {
+            "text": "TownHall",
+            "indices": [
+              185,
+              194
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "CNN",
+            "name": "CNN",
+            "id": 759251,
+            "id_str": "759251",
+            "indices": [
+              20,
+              24
+            ]
+          }
+        ],
+        "symbols": []
+      }
+    },
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/3BY6d3IP4m",
+          "expanded_url": "https://twitter.com/i/web/status/966493519044120577",
+          "display_url": "twitter.com/i/web/status/9\u2026",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "CNN",
+          "name": "CNN",
+          "id": 759251,
+          "id_str": "759251",
+          "indices": [
+            20,
+            24
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "matching_rules": [
+      {
+        "tag": null
+      }
+    ]
+  },
+  {
+    "created_at": "Thu Feb 22 02:02:57 +0000 2018",
+    "id": 966493481052135424,
+    "id_str": "966493481052135424",
+    "text": ".@jaketapper beautiful tribute on @CNN #townhall",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2269183164,
+      "id_str": "2269183164",
+      "name": "Anne Slease",
+      "screen_name": "Anne_Slease",
+      "location": "Delaware, USA",
+      "url": "http://www.anneslease.com/",
+      "description": "Fierce mom advocate for mental health, gunsense & addiction. Former teacher/director paying hope forward -YA author rep'd by @HerringAli - AKA @stillhopefulmom",
+      "translator_type": "none",
+      "derived": {
+        "locations": [
+          {
+            "country": "United States",
+            "country_code": "US",
+            "region": "Delaware",
+            "full_name": "Delaware, United States",
+            "geo": {
+              "coordinates": [
+                -75.49992,
+                39.00039
+              ],
+              "type": "point"
+            }
+          }
+        ]
+      },
+      "protected": false,
+      "verified": false,
+      "followers_count": 1041,
+      "friends_count": 937,
+      "listed_count": 49,
+      "favourites_count": 4366,
+      "statuses_count": 2890,
+      "created_at": "Mon Dec 30 17:37:05 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000160239517/zarkuPB-.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000160239517/zarkuPB-.jpeg",
+      "profile_background_tile": false,
+      "profile_link_color": "442266",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "009999",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/823368245772165120/AMjygwlN_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/823368245772165120/AMjygwlN_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2269183164/1496277988",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "townhall",
+          "indices": [
+            39,
+            48
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "jaketapper",
+          "name": "Jake Tapper",
+          "id": 14529929,
+          "id_str": "14529929",
+          "indices": [
+            1,
+            12
+          ]
+        },
+        {
+          "screen_name": "CNN",
+          "name": "CNN",
+          "id": 759251,
+          "id_str": "759251",
+          "indices": [
+            34,
+            38
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "matching_rules": [
+      {
+        "tag": null
+      }
+    ]
+  },
+  {
+    "created_at": "Thu Feb 22 02:02:44 +0000 2018",
+    "id": 966493430066110464,
+    "id_str": "966493430066110464",
+    "text": "RT @SiddonsDan: MUST SEE @MichelleMalkin:\n@CNN plans on holding a #Townhall on gun control tonight \u2014 BUT BEWARE!! They have a sordid and lo\u2026",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 806290071250993153,
+      "id_str": "806290071250993153",
+      "name": "Sneekie Pete",
+      "screen_name": "SneekieP",
+      "location": null,
+      "url": "https://gab.ai/SneekiePete",
+      "description": "#MAGA",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1866,
+      "friends_count": 2040,
+      "listed_count": 17,
+      "favourites_count": 32510,
+      "statuses_count": 17696,
+      "created_at": "Wed Dec 07 00:11:47 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/919970555322871809/sXWBLR1Q_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/919970555322871809/sXWBLR1Q_normal.jpg",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Feb 21 20:51:19 +0000 2018",
+      "id": 966415057667096576,
+      "id_str": "966415057667096576",
+      "text": "MUST SEE @MichelleMalkin:\n@CNN plans on holding a #Townhall on gun control tonight \u2014 BUT BEWARE!! They have a sordi\u2026 https://t.co/GY84bbKA2z",
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 867947619661881344,
+        "id_str": "867947619661881344",
+        "name": "Dan Siddons",
+        "screen_name": "SiddonsDan3",
+        "location": null,
+        "url": null,
+        "description": "I Support President Donald J. Trump @trish_regan @ericbolling @katrinapierson @RealJamesWoods @michellemalkin @deneenborelli @RealDrGina @DLoesch @STEPHMHAMILL",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 72360,
+        "friends_count": 71781,
+        "listed_count": 171,
+        "favourites_count": 175710,
+        "statuses_count": 198433,
+        "created_at": "Fri May 26 03:36:53 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/932133290194165760/gKVRr-xH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/932133290194165760/gKVRr-xH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/867947619661881344/1522161070",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "MUST SEE @MichelleMalkin:\n@CNN plans on holding a #Townhall on gun control tonight \u2014 BUT BEWARE!! They have a sordid and long history of *rigging* town halls with phony plants. \nThese are biased political events, not journalistic exercises. \nhttps://t.co/LKEwhVYUdI",
+        "display_text_range": [
+          0,
+          265
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Townhall",
+              "indices": [
+                50,
+                59
+              ]
+            }
+          ],
+          "urls": [],
+          "user_mentions": [
+            {
+              "screen_name": "michellemalkin",
+              "name": "Michelle Malkin",
+              "id": 15976697,
+              "id_str": "15976697",
+              "indices": [
+                9,
+                24
+              ]
+            },
+            {
+              "screen_name": "CNN",
+              "name": "CNN",
+              "id": 759251,
+              "id_str": "759251",
+              "indices": [
+                26,
+                30
+              ]
+            }
+          ],
+          "symbols": [],
+          "media": [
+            {
+              "id": 966384325997588482,
+              "id_str": "966384325997588482",
+              "indices": [
+                242,
+                265
+              ],
+              "additional_media_info": {
+                "title": "",
+                "description": "",
+                "embeddable": true,
+                "monetizable": false
+              },
+              "media_url": "http://pbs.twimg.com/amplify_video_thumb/966384325997588482/img/5LJxXL8v7xocW4mu.jpg",
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/966384325997588482/img/5LJxXL8v7xocW4mu.jpg",
+              "url": "https://t.co/LKEwhVYUdI",
+              "display_url": "pic.twitter.com/LKEwhVYUdI",
+              "expanded_url": "https://twitter.com/CRTV/status/966387079641948160/video/1",
+              "type": "video",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 133300,
+                "variants": [
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/966384325997588482/vid/640x360/Merk_MkZa4JqTpDb.mp4"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/966384325997588482/vid/1280x720/guGOvQ28h9ZVgYih.mp4"
+                  },
+                  {
+                    "bitrate": 320000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/966384325997588482/vid/320x180/GrBOdQ80xEBEA1li.mp4"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/966384325997588482/pl/KclQ5uFigOcyhIeg.m3u8"
+                  }
+                ]
+              },
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1920,
+                  "h": 1080,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 966387079641948160,
+              "source_status_id_str": "966387079641948160",
+              "source_user_id": 753385398718521344,
+              "source_user_id_str": "753385398718521344"
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 966384325997588482,
+              "id_str": "966384325997588482",
+              "indices": [
+                242,
+                265
+              ],
+              "additional_media_info": {
+                "title": "",
+                "description": "",
+                "embeddable": true,
+                "monetizable": false
+              },
+              "media_url": "http://pbs.twimg.com/amplify_video_thumb/966384325997588482/img/5LJxXL8v7xocW4mu.jpg",
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/966384325997588482/img/5LJxXL8v7xocW4mu.jpg",
+              "url": "https://t.co/LKEwhVYUdI",
+              "display_url": "pic.twitter.com/LKEwhVYUdI",
+              "expanded_url": "https://twitter.com/CRTV/status/966387079641948160/video/1",
+              "type": "video",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 133300,
+                "variants": [
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/966384325997588482/vid/640x360/Merk_MkZa4JqTpDb.mp4"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/966384325997588482/vid/1280x720/guGOvQ28h9ZVgYih.mp4"
+                  },
+                  {
+                    "bitrate": 320000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/966384325997588482/vid/320x180/GrBOdQ80xEBEA1li.mp4"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/966384325997588482/pl/KclQ5uFigOcyhIeg.m3u8"
+                  }
+                ]
+              },
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1920,
+                  "h": 1080,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 966387079641948160,
+              "source_status_id_str": "966387079641948160",
+              "source_user_id": 753385398718521344,
+              "source_user_id_str": "753385398718521344"
+            }
+          ]
+        }
+      },
+      "quote_count": 0,
+      "reply_count": 115,
+      "retweet_count": 1184,
+      "favorite_count": 1507,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Townhall",
+            "indices": [
+              50,
+              59
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GY84bbKA2z",
+            "expanded_url": "https://twitter.com/i/web/status/966415057667096576",
+            "display_url": "twitter.com/i/web/status/9\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "michellemalkin",
+            "name": "Michelle Malkin",
+            "id": 15976697,
+            "id_str": "15976697",
+            "indices": [
+              9,
+              24
+            ]
+          },
+          {
+            "screen_name": "CNN",
+            "name": "CNN",
+            "id": 759251,
+            "id_str": "759251",
+            "indices": [
+              26,
+              30
+            ]
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": true,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Townhall",
+          "indices": [
+            66,
+            75
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "SiddonsDan",
+          "name": null,
+          "id": null,
+          "id_str": null,
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "michellemalkin",
+          "name": "Michelle Malkin",
+          "id": 15976697,
+          "id_str": "15976697",
+          "indices": [
+            25,
+            40
+          ]
+        },
+        {
+          "screen_name": "CNN",
+          "name": "CNN",
+          "id": 759251,
+          "id_str": "759251",
+          "indices": [
+            42,
+            46
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "matching_rules": [
+      {
+        "tag": null
+      }
+    ]
+  },
+  {
+    "created_at": "Thu Feb 22 02:02:12 +0000 2018",
+    "id": 966493291914190850,
+    "id_str": "966493291914190850",
+    "text": "RT @SiddonsDan: MUST SEE @MichelleMalkin:\n@CNN plans on holding a #Townhall on gun control tonight \u2014 BUT BEWARE!! They have a sordid and lo\u2026",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1523789605,
+      "id_str": "1523789605",
+      "name": "Brent Grinnell",
+      "screen_name": "BrentGrinnell",
+      "location": "Minneapolis, Minnesota",
+      "url": null,
+      "description": "I am retired",
+      "translator_type": "none",
+      "derived": {
+        "locations": [
+          {
+            "country": "United States",
+            "country_code": "US",
+            "locality": "Minneapolis",
+            "region": "Minnesota",
+            "sub_region": "Hennepin County",
+            "full_name": "Minneapolis, Minnesota, United States",
+            "geo": {
+              "coordinates": [
+                -93.26384,
+                44.97997
+              ],
+              "type": "point"
+            }
+          }
+        ]
+      },
+      "protected": false,
+      "verified": false,
+      "followers_count": 1058,
+      "friends_count": 2880,
+      "listed_count": 15,
+      "favourites_count": 12350,
+      "statuses_count": 15987,
+      "created_at": "Mon Jun 17 02:51:24 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/437800445986484224/vXMJ01da_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/437800445986484224/vXMJ01da_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1523789605/1393081612",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Feb 21 20:51:19 +0000 2018",
+      "id": 966415057667096576,
+      "id_str": "966415057667096576",
+      "text": "MUST SEE @MichelleMalkin:\n@CNN plans on holding a #Townhall on gun control tonight \u2014 BUT BEWARE!! They have a sordi\u2026 https://t.co/GY84bbKA2z",
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 867947619661881344,
+        "id_str": "867947619661881344",
+        "name": "Dan Siddons",
+        "screen_name": "SiddonsDan3",
+        "location": null,
+        "url": null,
+        "description": "I Support President Donald J. Trump @trish_regan @ericbolling @katrinapierson @RealJamesWoods @michellemalkin @deneenborelli @RealDrGina @DLoesch @STEPHMHAMILL",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 72360,
+        "friends_count": 71781,
+        "listed_count": 171,
+        "favourites_count": 175710,
+        "statuses_count": 198433,
+        "created_at": "Fri May 26 03:36:53 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/932133290194165760/gKVRr-xH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/932133290194165760/gKVRr-xH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/867947619661881344/1522161070",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "MUST SEE @MichelleMalkin:\n@CNN plans on holding a #Townhall on gun control tonight \u2014 BUT BEWARE!! They have a sordid and long history of *rigging* town halls with phony plants. \nThese are biased political events, not journalistic exercises. \nhttps://t.co/LKEwhVYUdI",
+        "display_text_range": [
+          0,
+          265
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Townhall",
+              "indices": [
+                50,
+                59
+              ]
+            }
+          ],
+          "urls": [],
+          "user_mentions": [
+            {
+              "screen_name": "michellemalkin",
+              "name": "Michelle Malkin",
+              "id": 15976697,
+              "id_str": "15976697",
+              "indices": [
+                9,
+                24
+              ]
+            },
+            {
+              "screen_name": "CNN",
+              "name": "CNN",
+              "id": 759251,
+              "id_str": "759251",
+              "indices": [
+                26,
+                30
+              ]
+            }
+          ],
+          "symbols": [],
+          "media": [
+            {
+              "id": 966384325997588482,
+              "id_str": "966384325997588482",
+              "indices": [
+                242,
+                265
+              ],
+              "additional_media_info": {
+                "title": "",
+                "description": "",
+                "embeddable": true,
+                "monetizable": false
+              },
+              "media_url": "http://pbs.twimg.com/amplify_video_thumb/966384325997588482/img/5LJxXL8v7xocW4mu.jpg",
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/966384325997588482/img/5LJxXL8v7xocW4mu.jpg",
+              "url": "https://t.co/LKEwhVYUdI",
+              "display_url": "pic.twitter.com/LKEwhVYUdI",
+              "expanded_url": "https://twitter.com/CRTV/status/966387079641948160/video/1",
+              "type": "video",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 133300,
+                "variants": [
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/966384325997588482/vid/640x360/Merk_MkZa4JqTpDb.mp4"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/966384325997588482/vid/1280x720/guGOvQ28h9ZVgYih.mp4"
+                  },
+                  {
+                    "bitrate": 320000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/966384325997588482/vid/320x180/GrBOdQ80xEBEA1li.mp4"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/966384325997588482/pl/KclQ5uFigOcyhIeg.m3u8"
+                  }
+                ]
+              },
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1920,
+                  "h": 1080,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 966387079641948160,
+              "source_status_id_str": "966387079641948160",
+              "source_user_id": 753385398718521344,
+              "source_user_id_str": "753385398718521344"
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 966384325997588482,
+              "id_str": "966384325997588482",
+              "indices": [
+                242,
+                265
+              ],
+              "additional_media_info": {
+                "title": "",
+                "description": "",
+                "embeddable": true,
+                "monetizable": false
+              },
+              "media_url": "http://pbs.twimg.com/amplify_video_thumb/966384325997588482/img/5LJxXL8v7xocW4mu.jpg",
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/966384325997588482/img/5LJxXL8v7xocW4mu.jpg",
+              "url": "https://t.co/LKEwhVYUdI",
+              "display_url": "pic.twitter.com/LKEwhVYUdI",
+              "expanded_url": "https://twitter.com/CRTV/status/966387079641948160/video/1",
+              "type": "video",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 133300,
+                "variants": [
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/966384325997588482/vid/640x360/Merk_MkZa4JqTpDb.mp4"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/966384325997588482/vid/1280x720/guGOvQ28h9ZVgYih.mp4"
+                  },
+                  {
+                    "bitrate": 320000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/966384325997588482/vid/320x180/GrBOdQ80xEBEA1li.mp4"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/966384325997588482/pl/KclQ5uFigOcyhIeg.m3u8"
+                  }
+                ]
+              },
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1920,
+                  "h": 1080,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 966387079641948160,
+              "source_status_id_str": "966387079641948160",
+              "source_user_id": 753385398718521344,
+              "source_user_id_str": "753385398718521344"
+            }
+          ]
+        }
+      },
+      "quote_count": 0,
+      "reply_count": 115,
+      "retweet_count": 1184,
+      "favorite_count": 1507,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Townhall",
+            "indices": [
+              50,
+              59
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GY84bbKA2z",
+            "expanded_url": "https://twitter.com/i/web/status/966415057667096576",
+            "display_url": "twitter.com/i/web/status/9\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "michellemalkin",
+            "name": "Michelle Malkin",
+            "id": 15976697,
+            "id_str": "15976697",
+            "indices": [
+              9,
+              24
+            ]
+          },
+          {
+            "screen_name": "CNN",
+            "name": "CNN",
+            "id": 759251,
+            "id_str": "759251",
+            "indices": [
+              26,
+              30
+            ]
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": true,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Townhall",
+          "indices": [
+            66,
+            75
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "SiddonsDan",
+          "name": null,
+          "id": null,
+          "id_str": null,
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "michellemalkin",
+          "name": "Michelle Malkin",
+          "id": 15976697,
+          "id_str": "15976697",
+          "indices": [
+            25,
+            40
+          ]
+        },
+        {
+          "screen_name": "CNN",
+          "name": "CNN",
+          "id": 759251,
+          "id_str": "759251",
+          "indices": [
+            42,
+            46
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "matching_rules": [
+      {
+        "tag": null
+      }
+    ]
+  },
+  {
+    "created_at": "Thu Feb 22 02:02:11 +0000 2018",
+    "id": 966493291477897218,
+    "id_str": "966493291477897218",
+    "text": "@CNN #TownHall #StandUp - An exchange with students and families and lawmakers.   (Trump and Governor Rick Scott de\u2026 https://t.co/H6ND3iHfZf",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "in_reply_to_screen_name": "CNN",
+    "user": {
+      "id": 102572648,
+      "id_str": "102572648",
+      "name": "Emily Salazar",
+      "screen_name": "LuvvvMusic",
+      "location": "Austin, TX",
+      "url": null,
+      "description": "\u2764\ufe0fmusic,classic films,the arts,cats,travel. Care deeply about human rights,politics,& a daily dose of humor. #indivisible #TheResistance #Dreamers #BlueWave2018",
+      "translator_type": "none",
+      "derived": {
+        "locations": [
+          {
+            "country": "United States",
+            "country_code": "US",
+            "locality": "Austin",
+            "region": "Texas",
+            "sub_region": "Travis County",
+            "full_name": "Austin, Texas, United States",
+            "geo": {
+              "coordinates": [
+                -97.74306,
+                30.26715
+              ],
+              "type": "point"
+            }
+          }
+        ]
+      },
+      "protected": false,
+      "verified": false,
+      "followers_count": 4742,
+      "friends_count": 4420,
+      "listed_count": 16,
+      "favourites_count": 9221,
+      "statuses_count": 32522,
+      "created_at": "Thu Jan 07 04:15:04 +0000 2010",
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FCE09D",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/256939158/PPT6.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/256939158/PPT6.jpg",
+      "profile_background_tile": true,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "66422E",
+      "profile_sidebar_fill_color": "70775A",
+      "profile_text_color": "B6C5A4",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1354849304/For_Twitter_may_2011_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354849304/For_Twitter_may_2011_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/102572648/1521781724",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "@CNN #TownHall #StandUp - An exchange with students and families and lawmakers.   (Trump and Governor Rick Scott declined offer to attend or be there on video)",
+      "display_text_range": [
+        0,
+        159
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "TownHall",
+            "indices": [
+              5,
+              14
+            ]
+          },
+          {
+            "text": "StandUp",
+            "indices": [
+              15,
+              23
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "CNN",
+            "name": "CNN",
+            "id": 759251,
+            "id_str": "759251",
+            "indices": [
+              0,
+              4
+            ]
+          }
+        ],
+        "symbols": []
+      }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TownHall",
+          "indices": [
+            5,
+            14
+          ]
+        },
+        {
+          "text": "StandUp",
+          "indices": [
+            15,
+            23
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/H6ND3iHfZf",
+          "expanded_url": "https://twitter.com/i/web/status/966493291477897218",
+          "display_url": "twitter.com/i/web/status/9\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "CNN",
+          "name": "CNN",
+          "id": 759251,
+          "id_str": "759251",
+          "indices": [
+            0,
+            4
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "matching_rules": [
+      {
+        "tag": null
+      }
+    ]
+  },
+  {
+    "created_at": "Thu Feb 22 02:02:10 +0000 2018",
+    "id": 966493287023443968,
+    "id_str": "966493287023443968",
+    "text": "RT @211Pine: I expect to see @jaketapper and the rest of Florida &amp; its students demand answers from local law enforcement &amp; the @FBI tonigh\u2026",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1281392407,
+      "id_str": "1281392407",
+      "name": "Dale Muncie",
+      "screen_name": "chispasos9",
+      "location": "Vancouver, WA",
+      "url": null,
+      "description": "Retired. Strictly USA. #NRA #2A hubby to wife, dad to 3 adult kids.",
+      "translator_type": "none",
+      "derived": {
+        "locations": [
+          {
+            "country": "United States",
+            "country_code": "US",
+            "locality": "Vancouver",
+            "region": "Washington",
+            "sub_region": "Clark County",
+            "full_name": "Vancouver, Washington, United States",
+            "geo": {
+              "coordinates": [
+                -122.66149,
+                45.63873
+              ],
+              "type": "point"
+            }
+          }
+        ]
+      },
+      "protected": false,
+      "verified": false,
+      "followers_count": 2142,
+      "friends_count": 2220,
+      "listed_count": 22,
+      "favourites_count": 65355,
+      "statuses_count": 91650,
+      "created_at": "Tue Mar 19 20:02:11 +0000 2013",
+      "utc_offset": -25200,
+      "time_zone": "America/Los_Angeles",
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/899886944573825024/U_WIUd0I_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/899886944573825024/U_WIUd0I_normal.jpg",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 22 01:37:58 +0000 2018",
+      "id": 966487196864692224,
+      "id_str": "966487196864692224",
+      "text": "I expect to see @jaketapper and the rest of Florida &amp; its students demand answers from local law enforcement &amp; the\u2026 https://t.co/t8hHnjnGKy",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1190530476,
+        "id_str": "1190530476",
+        "name": "Laura",
+        "screen_name": "211Pine",
+        "location": "East Coast \ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "description": "Old school EVERYTHING is my favorite, & laughing. I love laughing.  \ud83d\udc95\ud83d\udc95",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 24464,
+        "friends_count": 20204,
+        "listed_count": 116,
+        "favourites_count": 61149,
+        "statuses_count": 37794,
+        "created_at": "Sun Feb 17 18:06:06 +0000 2013",
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/955646094003679232/kTNmbki__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/955646094003679232/kTNmbki__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1190530476/1490642359",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "I expect to see @jaketapper and the rest of Florida &amp; its students demand answers from local law enforcement &amp; the @FBI tonight at the @CNN #Townhall",
+        "display_text_range": [
+          0,
+          157
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Townhall",
+              "indices": [
+                148,
+                157
+              ]
+            }
+          ],
+          "urls": [],
+          "user_mentions": [
+            {
+              "screen_name": "jaketapper",
+              "name": "Jake Tapper",
+              "id": 14529929,
+              "id_str": "14529929",
+              "indices": [
+                16,
+                27
+              ]
+            },
+            {
+              "screen_name": "FBI",
+              "name": "FBI",
+              "id": 17629860,
+              "id_str": "17629860",
+              "indices": [
+                123,
+                127
+              ]
+            },
+            {
+              "screen_name": "CNN",
+              "name": "CNN",
+              "id": 759251,
+              "id_str": "759251",
+              "indices": [
+                143,
+                147
+              ]
+            }
+          ],
+          "symbols": []
+        }
+      },
+      "quote_count": 0,
+      "reply_count": 6,
+      "retweet_count": 6,
+      "favorite_count": 16,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/t8hHnjnGKy",
+            "expanded_url": "https://twitter.com/i/web/status/966487196864692224",
+            "display_url": "twitter.com/i/web/status/9\u2026",
+            "indices": [
+              124,
+              147
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "jaketapper",
+            "name": "Jake Tapper",
+            "id": 14529929,
+            "id_str": "14529929",
+            "indices": [
+              16,
+              27
+            ]
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "211Pine",
+          "name": "Laura",
+          "id": 1190530476,
+          "id_str": "1190530476",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "jaketapper",
+          "name": "Jake Tapper",
+          "id": 14529929,
+          "id_str": "14529929",
+          "indices": [
+            29,
+            40
+          ]
+        },
+        {
+          "screen_name": "FBI",
+          "name": "FBI",
+          "id": 17629860,
+          "id_str": "17629860",
+          "indices": [
+            136,
+            140
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "matching_rules": [
+      {
+        "tag": null
+      }
+    ]
+  }
+]

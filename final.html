@@ -3,6 +3,7 @@
 <html>
   <head>
     <title>Gun Control Town Hall Sentiments</title>
+    <link rel="stylesheet" type="text/css" href="minty.css">
 <style>
 .chart {
   /*background: #DFFEFE;*/
@@ -30,11 +31,91 @@ circle {
 </head> 
 
 <body>
-	<iframe src="https://edavproject.shinyapps.io/geoloc_app/"></iframe>
+    <h1>
+        Exploring Twitter Reactions to the CNN Town Hall on Gun Violence
+    </h1>
+    <h4>
+        Exploratory Data Analysis and Visualization: STAT 5702 Spring 2018
+    </h4>
 
-        <h1>Sentiment Analysis</h1>
-        <h2>Hover over points to see some sample tweets!</h2>
-          <select name="person">
+    <h2>
+        Introduction
+        <!-- Explain why you chose this topic, and the questions you are interested in studying.
+
+List team members and a description of how each contributed to the project. -->
+    </h2>
+    <p>
+        In late February, following a shooting at a High School in Parkland, Florida, some of the survivors, their parents, and teachers were invited to a televised town hall to ask uncensored questions about and discuss gun violence and related topic with Senators Marco Rubio and Bill Nelson, House of Rep. Member Ted Deutch, Broward County Sheriff Scott Israel and National Rifle Association spokeswoman Dana Loesch, among others. The event was moderated by Jake Tapper of CNN.
+    </p>
+    <p>
+        The CNN town hall garnered significant public attention not only for the tragic nature of the shooting at the Stoneman Douglas High School, which took the lives of 17 students and teachers, but also because of the political, legislative, and law-enforcement issues that are inextricably tied with gun violence in the US. In a series of appearances unprecedented in a disturbingly long history of frequent shooting incidents, some among the students have spoken extensively and eloquently on the need for greater gun-control, which spurred further attention and interest in the already prominent and highly polarized debate regarding gun violence in the US. In the weeks after the shooting and preceding the CNN town hall, this has been one of the most discussed political topics in the public sphere as reflected on social and traditional media.
+    </p>
+    <img src="images/townhall.jpg" alt="Marco Rubio in CNN Townhall" align="middle">
+    <p>
+        The event and was the first opportunity for some the loudest and most authentic critics of [what are perceived by many as] lax gun laws to discuss the issue with policymakers, law-enforcement, as well as a representative of the National Rifle Association. As such, the CNN town hall has itself been the subject of great public attention; an obvious source to look to for the public’s authentic, uncensored reactions was Twitter.
+    </p>
+
+        <h3>
+            Team Members
+        </h3>
+            <li>Brendon Villalobos [bkv2103]</li>
+                <ul>
+                    <li>
+                       Descriptive Statistics and Visualization, Sentiment Analysis in D3, Data Collection 
+                    </li>
+                </ul>
+            <li>Gaurav Singh [gs2938]</li>
+                <ul>
+                    <li>
+                        Interactive Map Visualization in Shiny, Wordclouds, Report Generation
+                    </li>
+                </ul>
+            <li>Mohamed Maskani Filali [mm5102]</li>
+                <ul>
+                    <li>
+                        Data Cleaning, Data Preparation for Visualization
+                    </li>
+                </ul>
+            <li>Tin Oreskovic [to2320]</li>
+                <ul>
+                    <li>
+                        LDA and Topic Modelling, Report Content
+                    </li>
+                </ul>
+
+
+    <h2>
+        Description of Data
+    </h2>
+
+    <h2>
+        Analysis of Data Quality
+    </h2>
+
+    <h2>
+        Main Analysis
+    </h2>
+        <p>
+            With the aim of enabling a visual exploration of three aspects of the public reaction to the TV event as well as the content of the event itself, we developed three corresponding interactive visualization tools. These three aspects of the public reaction to the event as reflected on Twitter and the town hall itself are:
+            <ol>
+                <li>
+                    The volume of reactions to the various personalities involved in or conspicuously absent from the CNN town hall, and its evolution through the duration of the event.
+                </li>
+                <li>
+                    The geographical distribution of the tweets about the town hall, and its evolution through the duration of the event, tied to the most frequently tweeted words in each state [which may be a function of political attitudes in the area, among other variables].
+                </li>
+                <li>
+                    The major topics of discussion extracted from the transcript of the CNN town hall event, their relative distance (between their estimated distributions), and the most (uniquely) prominent two-word phrases within each topic.
+                </li>
+            </ol>
+        </p>
+        <h3>
+            Sentiment Analysis
+        </h3>
+            <p>
+                The volume of reactions to the various personalities involved in or conspicuously absent from the CNN town hall, and its evolution through the duration of the event
+            </p>
+            <select name="person">
             <option value="rubio">Sen. Marco Rubio</option>
             <option value="israel">Sheriff Scott Israel</option>
             <option value="cameron">Cameron Kansky</option>
@@ -48,16 +129,41 @@ circle {
           </select>
           <br><br>
         </form>
-        <!--div style="border:1px solid red;">
-            <div class='content' style="float:left;"></div>
-            <div id='tweetText' style="float:left; white-space: pre-line; margin-left:15px;"></div>
-            <div style="clear:both;">
-                
-        </div-->
         <div class='content'></div>
         <div id='tweetText' style="white-space: pre-line; margin-left:15px;"></div>
-        
-        
         <script type="text/javascript" src="./d3/scatterchart.js"></script>
+
+
+        <h3>
+            Wordcloud By States
+        </h3>
+            <p>
+                The geographical distribution of the tweets about the town hall, and its evolution through the duration of the event, tied to the most commonly tweeted phrases in each state [which may be a function of political attitudes in the area, among other variables]
+            </p>
+            <iframe src="https://edavproject.shinyapps.io/geoloc_app/" width="1100" height="800"></iframe>
+        <h3>
+            LDA Topic Modelling
+        </h3>
+            <p>
+                The major topics of discussion extracted from the transcript of the CNN town hall event, their relative distance (between their estimated distributions), and the most (uniquely) prominent two-word phrases within each topic.
+            </p>
+            <img src="images/lda_viz.jpg" alt="Marco Rubio in CNN Townhall" align="middle" width="800" height="800">
+            <iframe src="images/lda_viz.html" width="1200" height="800"></iframe>
+
+    <h2>
+        Executive Summary
+    </h2>
+
+    <h2>
+        Interactive Component
+    </h2>
+
+    <h2>
+        Conclusion
+    </h2>
+    <p>
+        
+    </p>
+
 </body>
 </html>
