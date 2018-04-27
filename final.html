@@ -21,6 +21,11 @@
     fill: none;
 }
 
+#tweetText{
+    font-weight: bold;
+    color: black;
+}
+
 circle {
     /*r: 7;*/
 }
@@ -38,11 +43,9 @@ circle {
         Exploratory Data Analysis and Visualization: STAT 5702 Spring 2018
     </h4>
 
-    <h2>
+    <!--h2>
         Introduction
-        <!-- Explain why you chose this topic, and the questions you are interested in studying.
 
-List team members and a description of how each contributed to the project. -->
     </h2>
     <p>
         In late February, following a shooting at a High School in Parkland, Florida, some of the survivors, their parents, and teachers were invited to a televised town hall to ask uncensored questions about and discuss gun violence and related topic with Senators Marco Rubio and Bill Nelson, House of Rep. Member Ted Deutch, Broward County Sheriff Scott Israel and National Rifle Association spokeswoman Dana Loesch, among others. The event was moderated by Jake Tapper of CNN.
@@ -50,10 +53,9 @@ List team members and a description of how each contributed to the project. -->
     <p>
         The CNN town hall garnered significant public attention not only for the tragic nature of the shooting at the Stoneman Douglas High School, which took the lives of 17 students and teachers, but also because of the political, legislative, and law-enforcement issues that are inextricably tied with gun violence in the US. In a series of appearances unprecedented in a disturbingly long history of frequent shooting incidents, some among the students have spoken extensively and eloquently on the need for greater gun-control, which spurred further attention and interest in the already prominent and highly polarized debate regarding gun violence in the US. In the weeks after the shooting and preceding the CNN town hall, this has been one of the most discussed political topics in the public sphere as reflected on social and traditional media.
     </p>
-    <img src="images/townhall.jpg" alt="Marco Rubio in CNN Townhall" align="middle" width = "1200">
     <p>
         The event and was the first opportunity for some the loudest and most authentic critics of [what are perceived by many as] lax gun laws to discuss the issue with policymakers, law-enforcement, as well as a representative of the National Rifle Association. As such, the CNN town hall has itself been the subject of great public attention; an obvious source to look to for the public’s authentic, uncensored reactions was Twitter.
-    </p>
+    </p-->
 
         <h3>
             Team Members
@@ -85,15 +87,51 @@ List team members and a description of how each contributed to the project. -->
 
 
     <h2>
-        Description of Data
+        Background & Project Motivation
+    </h2>
+    On February 14, 2018, a student walked into Stoneman Douglas High School in Parkland, FL and shot 34 people with an AR-15 weapon, killing 17 of them. While tragic, mass shootings are not exactly uncommon in the United States, and are often rarely mentioned soon after the incidents as the news cycle moves on. This Parkland shooting, however, has resiliently  remained at the center of public political attention much longer. Since the shooting, several student leaders from SDHS have emerged as prominent activists for gun control. They have impressively managed to sublimate their emotions and opinions following this shooting into momentum for a movement that has founded the organization Never Again MSD, that has in turn organized multiple nationwide marches and voter registration events.  All of this has already resulted in <a target="_blank" href=”https:///www.fivethirtyeight.com/features/gun-policy-is-already-changing-in-the-wake-of-parkland”> meaningful policy changes </a>. 
+
+    In this project, we return to the genesis of this movement for some insights about its power to remain in the spotlight. Eight days after the shooting at SDHS, CNN hosted a live, televised Town Hall on gun control where all three groups of stakeholders &mdash; the policy makers, the student survivors, and the public &mdash; participated, both at Parkland, FL and online. We see this town hall as a microcosm of this shooting’s impact on the zeitgeist. We have centered our project’s investigation into this topic around the content of the debate and the public’s tweets about it in real time.
+    <h2>
+        About the Town Hall 
+    </h2>
+    <img src="images/townhall.jpg" alt="Marco Rubio in CNN Townhall" align="middle" width = "1200">
+    <br>
+    Some of the survivors, their parents, and teachers were invited to a televised town hall to ask uncensored questions about and discuss gun violence and related topic with Senators Marco Rubio and Bill Nelson, House of Rep. Member Ted Deutch, Broward County Sheriff Scott Israel and National Rifle Association spokeswoman Dana Loesch, among others. Significant time was allocated to students Emma Gonzalez and Cameron Kansky to ask questions of Loesch and Rubio respectively. The event was moderated by Jake Tapper of CNN.
+    The town hall lasted from 9pm on to 11pm Eastern time (2-4 GMT). Throughout, people were actively live-tweeting their thoughts about the debate. We decided to use a random sampling of these tweets as representative of public opinion - which of course has its limitations: twitter users skew younger, are generally more politically engaged, and the most prolific tweeters are the ones who have the most partisan things to say. However, since we have no reason to believe that twitter users are more likely to lean partisan in one direction over another, we think that tweet data is the most effective way to capture the gist of the public reaction to the town hall.
+    You can watch the full debate <a target="_blank" href=”https://www.cnn.com/videos/politics/2018/02/22/gun-town-hall-full-version-parkland.cnn”> here </a>. 
+    <h2>
+        Our Questions 
+    </h2>
+    In our effort to understand how the three stakeholder groups &mdash; especially the public &mdash; metabolized the Parkland shooting, we  focused our inquiry on three EDA questions:
+    1. How did tweeters feel about the participants in the debate, especially the policy makers?
+    2. Can we get a snapshot of how tweeters reacted to the debate in different parts of the country?
+    3. What were the most important topics discussed? What direction is the gun violence and control narrative going?
+    <h2>
+        Our Methods
+    </h2>
+    Before we get into what we found, let’s talk about how we found it.
+    <h4>Requested API access from Twitter</h4>
+    The publicly-available Twitter API only allows you to query the last 7 days of data, and with very limited search operators. Clearly, this is not sufficient for our use case. We submitted an application to request sandbox enterprise access to Twitter’s API in order to access tweets from the debate back in February with a more granular search. The approval process took about two weeks.
+    <h4>Sample Tweet Data w/ API queries</h4>
+    Under our sandbox account, we only had an allowance of 100 queries, each returning at most 500 tweets. We used ~15 queries on prototyping (i.e. malformed queries, figuring out which hashtag returned the most tweets, etc.). Ultimately, the hashtag #CNNTownHall (hashtags are not case sensitive) yielded the most results per-query. 
+    We started by sampling the the data at one-minute intervals. We did this for the first 22 minutes of the debate, before switching to two-minute intervals for the last ~100 minutes of the debate, so that we wouldn’t run out of queries before capturing the whole time series between 2am and 4am GMT. This means there is some discontinuity in our data (i.e. ~2-minute jumps in the time over the course of the debate), but since we have no reason to think that there should be any systematic bias in data sampled at two-minute intervals, we are comfortable considering our data to be a random sample of any given time period. It is especially comforting to know that tweet tweets do not map one-to-one to real-time events (i.e. someone can tweet about something that happens 5 seconds or five minutes after).
+    A subtle note about this sampling method: each twitter query starts from the ending timestamp and works backwards. Therefore, each of these discontinuous jumps in time is anchored to the ends of these two-minute time intervals, and we find that our 500-tweet queries tend to capture about 30 seconds of data in real time at the back-ends of these two-minute intervals.
+    As these tweets were iteratively sampled, they were persisted to disk as JSONs on-line (in case something happened in the middle of data collection, we didn’t want to waste any queries). You can find the full dataset (compressed) here <LINK>, with the query parameters as the name of the JSON.
+    <h4>Object-Oriented ETL</h4>
+    Once we had all the tweets in JSON format on disk, we wrote some object-oriented code <LINK> for iterating through the JSONs and extracting useful tweet properties as object properties. This greatly increased our rapid prototyping time in creating datasets for visualizations.
+    <h4>Individual Data Set Prep</h4>
+    Once we had our data on disk and our ETL pipeline, we parallelized the work for individual visualizations. Each of us processed the object-oriented data into more workable dataframe-style datasets, that were then persisted and used for our visualizations.
+    <h4>Visualizations in R and D3</h4>
+    The visualizations here were designed to be interactive, informative, and adhere to the best practices of data presentation we’ve learned in this course. They were implemented using D3 and Shiny.
+
+
+    <h2>
+        Data Quality
     </h2>
 
     <h2>
-        Analysis of Data Quality
-    </h2>
-
-    <h2>
-        Main Analysis
+        Analysis Overview
     </h2>
         <p>
             With the aim of enabling a visual exploration of three aspects of the public reaction to the TV event as well as the content of the event itself, we developed three corresponding interactive visualization tools. These three aspects of the public reaction to the event as reflected on Twitter and the town hall itself are:
