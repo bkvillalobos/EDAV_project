@@ -137,9 +137,22 @@ circle {
 
 
     <h2>
-        Data Quality
+        About the Data Set
     </h2>
-
+    In the end, we ultimately had 33,480 tweets to work with, of which about a third (13,231) were unique. This means that around two-thirds of our dataset are retweets. 
+    <img src="images/eda_num_tweets.png " alt="Marco Rubio in CNN Townhall" align="middle" width = "600">
+    <br>
+    We agonized over whether or not to include retweets in our queries (and, ultimately, our analysis). On the one hand, it is redundant data - on the other hand, retweets reflect which tweets and sentiments the most traction and were the most publicized. We decided to include the retweets, but the reader should note the "bias" this introduces into our sample.
+    We also noticed that there are some data quality issues.  Twitter has recuently switched to a 240 character limit, but their enterprise API endpoint currently only gives us the first 140 characters of the tweet text (the old limit). This means that tweets longer than 140 characters are cut off, as shown below:
+    <img src="images/eda_sample_tweet_texts.png" alt="Marco Rubio in CNN Townhall" align="middle" width = "900">
+    <br>
+    For our geographic analysis, we had access to the longitude and latitude coordinates for 19,892 of these tweets.
+    <img src="images/eda_has_location_data.png" alt="Marco Rubio in CNN Townhall" align="middle" width = "600">
+    <br>
+    Of course, it was important for us to establish whether or not these data were missing at random. We performed a chi-squared test and found that there was no significant differences between the population densities of these cities and whether or not their coordinates were included in our dataset. Here are the top 20 cities in our dataset:
+    <img src="images/eda_top_20_locations.png" alt="Marco Rubio in CNN Townhall" align="middle" width = "600">
+    <br>
+    There were 183 unique cities in our dataset overall.
     <h2>
         Analysis Overview
     </h2>
