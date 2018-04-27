@@ -1,4 +1,26 @@
-## Exploring Twitter Reactions to the CNN Town Hall on Gun Violence
-### Exploratory Data Analysis and Visualization: STAT 5702 Spring 2018
+# Exploring Twitter Reactions to the CNN Town Hall on Gun Violence
+## Exploratory Data Analysis and Visualization: STAT 5702 Spring 2018
 
-In late February, following a shooting at a High School in Parkland, Florida, some of the survivors, their parents, and teachers were invited to a televised town hall to ask uncensored questions about and discuss gun violence and related topic with Senators Marco Rubio and Bill Nelson, House of Rep. Member Ted Deutch, Broward County Sheriff Scott Israel and National Rifle Association spokeswoman Dana Loesch, among others. The event was moderated by Jake Tapper of CNN.
+On February 14, 2018, a student walked into Stoneman Douglas High School in Parkland, FL and shot 34 people with an AR-15 weapon, killing 17 of them. While tragic, mass shootings are not exactly uncommon in the United States, and are often rarely mentioned soon after the incidents as the news cycle moves on. This Parkland shooting, however, has resiliently remained at the center of public political attention much longer. Since the shooting, several student leaders from SDHS have emerged as prominent activists for gun control. They have impressively managed to sublimate their emotions and opinions following this shooting into momentum for a movement that has founded the organization Never Again MSD, that has in turn organized multiple nationwide marches and voter registration events. All of this has already resulted in meaningful policy changes . In this project, we return to the genesis of this movement for some insights about its power to remain in the spotlight. Eight days after the shooting at SDHS, CNN hosted a live, televised Town Hall on gun control where all three groups of stakeholders ? the policy makers, the student survivors, and the public ? participated, both at Parkland, FL and online. We see this town hall as a microcosm of this shooting?s impact on the zeitgeist. We have centered our project?s investigation into this topic around the content of the debate and the public?s tweets about it in real time.
+
+## Full Report
+[READ THE REPORT HERE](http://www.columbia.edu/~bkv2103/final.html)
+
+# Built With
+* D3
+* CSS, HTML
+* R Studio, R, Shiny
+* Python 2.7
+* leaflet, pyLDAvis, gensim
+
+# Authors
+
+* **Brendon Villalobos**
+* **Gaurav Singh**
+* **Mohamed Maskani Filali**
+* **Tin Oreskovic**
+
+# Acknowledgments
+
+* [Professor Joyce T Robbins](http://www.joyce-robbins.com/)
+* Twitter (for sharing the data for analysis)
